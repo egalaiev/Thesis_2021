@@ -1,0 +1,4 @@
+taskA_fscore: 0.4667915154825536
+taskA_precision: 0.6339505564857677
+taskA_recall: 0.5669950738916256
+taskA_accuracy: 0.508
